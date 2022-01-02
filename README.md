@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aziz-RV
-- 👀 I’m interested in VR/AR and CS in general.
+- 👀 I’m interested in VR/AR and any Computer science topic in general :)
 - 🌱 I’m currently learning computational science and Engineering
 - 📫 How to reach me aziz.karaborni@yahoo.fr
 
